@@ -1,0 +1,42 @@
+{
+  "title": "License Terms Agreement",
+  "lastUpdated": "January 2026",
+  "contact": {
+    "email": "bulahan.belmar@gmail.com"
+  },
+  "sections": [
+    {
+      "title": "Personal Use Only",
+      "body": "All items and files purchased from this shop are licensed solely for personal use. Commercial use of any kind—including but not limited to resale, reproduction, distribution, or incorporation into products for sale—is strictly prohibited unless prior written permission is obtained."
+    },
+    {
+      "title": "Restrictions on 3D Models and Files",
+      "body": {
+        "type": "list",
+        "intro": "Any 3D model, or portion thereof, whether in digital or physical format, may not be:",
+        "items": [
+          "Shared or transmitted to others",
+          "Redistributed or uploaded to any platform",
+          "Remixed, altered, or duplicated for distribution",
+          "Sold, licensed, or otherwise monetized"
+        ]
+      }
+    },
+    {
+      "title": "Ownership",
+      "body": "All items and files remain the intellectual property of ko-fi.com/bmbulahan. Purchase grants the buyer a non-exclusive, non-transferable license for personal use only."
+    },
+    {
+      "title": "Enforcement",
+      "body": "Violation of these terms may result in revocation of license, removal of access, and potential legal action."
+    },
+    {
+      "title": "Commercial Licensing Contact",
+      "body": "If you wish to use any item or file for commercial purposes, you must obtain a separate commercial license. Please contact the email above to discuss licensing terms, fees, and permissions."
+    },
+    {
+      "title": "Agreement",
+      "body": "By purchasing, downloading, or using any item or file from this shop, you acknowledge that you have read, understood, and agreed to these License Terms."
+    }
+  ]
+}

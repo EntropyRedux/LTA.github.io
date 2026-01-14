@@ -1,0 +1,5 @@
+---
+title: "Revamp UI — always-visible terms cards and robust loader"
+body: >-
+  Rebuild `index.html` so all terms are visible by default and cards stack cleanly without overlap. Add a robust JSON loader (local -> fallback to raw GitHub) and keep search/print/PDF features working. Tested locally.
+---

@@ -1,3 +1,0 @@
-## Pull request: Revamp UI — always-visible terms cards and robust loader
-
-This PR revamps the `index.html` UI so all license terms are visible by default and cards stack cleanly without overlap. It also adds a robust JSON loader that tries a local `terms.json` first and falls back to the GitHub raw file if needed. Search, print, and Save-PDF remain supported.
